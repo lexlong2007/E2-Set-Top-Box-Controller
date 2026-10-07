@@ -207,3 +207,4 @@ an Octagon SF8008 running openATV 8.0 with Python 3.14, and on
 lamedb v4 and v5 channel databases.
 - Network: the PC must be able to reach both port 22 (SSH) and port 80
 (OpenWebIf) on the receiver.
+![image](https://github.com/lexlong2007/E2-Set-Top-Box-Controller/blob/main/e2001.png)
