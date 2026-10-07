@@ -208,3 +208,12 @@ lamedb v4 and v5 channel databases.
 - Network: the PC must be able to reach both port 22 (SSH) and port 80
 (OpenWebIf) on the receiver.
 ![image](https://github.com/lexlong2007/E2-Set-Top-Box-Controller/blob/main/e2001.png)
+![image](https://github.com/lexlong2007/E2-Set-Top-Box-Controller/blob/main/e2002.png)
+![image](https://github.com/lexlong2007/E2-Set-Top-Box-Controller/blob/main/e2003.png)
+![image](https://github.com/lexlong2007/E2-Set-Top-Box-Controller/blob/main/e2004.png)
+![image](https://github.com/lexlong2007/E2-Set-Top-Box-Controller/blob/main/e2005.png)
+![image](https://github.com/lexlong2007/E2-Set-Top-Box-Controller/blob/main/e2006.png)
+![image](https://github.com/lexlong2007/E2-Set-Top-Box-Controller/blob/main/e2007.png)
+![image](https://github.com/lexlong2007/E2-Set-Top-Box-Controller/blob/main/e2008.png)
+![image](https://github.com/lexlong2007/E2-Set-Top-Box-Controller/blob/main/e2009.png)
+![image](https://github.com/lexlong2007/E2-Set-Top-Box-Controller/blob/main/e2010.png)
